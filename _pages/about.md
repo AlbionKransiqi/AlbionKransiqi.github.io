@@ -7,14 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<script src="/Users/asmaaaly/asmaaalaa99.github.io/assets/js/script.js"></script>
-<h1 style="color:black; text-align:center;float:center;" >Asmaa is <h1> 
-<h1 style ="color:#67B1C5; text-align:center;float:center;">
-<span
-class="txt-rotate"
-data-period="2000"
-data-rotate='[ "a data scientist", "a traveller", "a kintter", "a baker", "not a robot"]'></span></h1>
-<hr style="clear:both;"/>
+<div style="witdh: 100%;">
+  <div style="float:left; width: 50%;">
+    **Left column title**
+    
+    Thing 1
+
+    Thing 2
+
+    Thing 3
+  </div>
+  <div style="float:left; width: 50%;">
+    **Right column title**
+    
+    Thing 4
+
+    Thing 5
+
+    Thing 6
+  </div>
+<div>
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
