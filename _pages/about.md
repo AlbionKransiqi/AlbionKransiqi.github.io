@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <script src="/Users/asmaaaly/asmaaalaa99.github.io/assets/js/script.js"></script>
-<hr />​
 <h1 style="color:black; text-align:center;float:center;" >Asmaa is <h1> 
 <h1 style ="color:#67B1C5; text-align:center;float:center;">
 <span
