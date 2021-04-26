@@ -120,8 +120,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/js/script.js
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
