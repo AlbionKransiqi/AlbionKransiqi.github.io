@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Asmaa Aly"
 title_separator          : "-"
 name                     : &name "Asmaa Aly"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Contact"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "a data scientist, an eco minimalist, and a creative writer."
   location         : "San Francisco, CA"
   employer         :
   pubmed           : 
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
