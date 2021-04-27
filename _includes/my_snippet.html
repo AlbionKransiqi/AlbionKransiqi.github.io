@@ -28,6 +28,9 @@ var TxtRotate = function(el, toRotate, period) {
     if (this.isDeleting) { delta /= 2; }
   
     if (!this.isDeleting && this.txt === fullTxt) {
+      if(this.loopNum >= this.toRotate.length-1) {
+        return;
+      }
       delta = this.period;
       this.isDeleting = true;
     } else if (this.isDeleting && this.txt === '') {
