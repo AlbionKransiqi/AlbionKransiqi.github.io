@@ -17,28 +17,29 @@ Education
   
 Work experience
 ======
-* Fall 2020: Technical Support Analyst
-  * Minerva Project
+* Minerva University - Machine Learning Teaching Assistant [Aug, 2021 - Present]
+  * Assisted two groups of 20 students in understanding course materials, created supplementary tutorials, held
+office hours, graded course projects and assignments
+  * Mentored 30 students through semester-long machine learning projects
 
-* Summer 2020: Data Science Intern
-  * Nokia 
-  * Duties included: building and managing web traffic analytics
-* Summer 2019: Summer Scholar
-  * Novartis Institute for Biomedical Research
-  * Duties included: Building machine learning models to transcribe handwritten medical forms
-  * Supervisor: Professor Hub
-  
-* Summer 2018: Translator 
-  * I Believe in Science - أنا أصدق العلم
-  * Duties included: translating the latest research papers into Arabic and writing blog posts to educate the readers. 
+* Minerva Project Inc. - Data Analyst Intern [Apr, 2021 - Sept, 2021]
+  * Created a pipeline of investigations - by using users data collected over the years to expose operational bottlenecks in the engineering team’s workflow
+  * Designed a data mining application tool, which helps the team in data preprocessing
+  * Automated the process of generating analytics reports used to understand user experience and team’s performance
 
-* Fall 2018: Teaching Assistant 
-  * 미래교실네트워크/ Future Class Network
-  * Duties included: teaching high school students design thinking and scientific research methods
-  
-* Fall 2017: Admission Processor  
-  * Minerva Project
-  * Duties included: explanatory data analysis for Minerva's admissions team
+* Minerva Project Inc. - Technical Support Engineer [Aug, 2020 - Aug, 2021]
+  * Directing a 6 people team to investigate 500+ technical bug reports to iterate the learning environment
+  * Provided technical support to 300+ users of Minerva Forum across 20+ countries to ensure seamless user experiences
+  * Created and administered the onboarding training process for 30+ new technical support hires
+
+* Mehmet Akif College - Computer Programming Teaching Assistant [Jan, 2020 - May, 2020]
+  * Provided one-on-one & group tutoring to students on Python and Java programming
+  * Designed and adapted materials teaching material and assignments for students to get additional practice
+
+* Ottiya - Virtual-Reality Research Intern [Sept, 2019 - Dec, 2019]
+  * Researched how to transform Ottiya’s available materials into a VR interactive content
+  * Implemented interactive AV designs and integrated them with VR technology
+
   
 Skills
 ======
@@ -52,6 +53,6 @@ Skills
 
 * Technologies: Bash, Docker, Git
 
-* Skills: Exploratory Data Analysis, Data Wrangling, Statistics, Predictive Modelling, Data Visualization, Business Intelligence, Database Management, Machine Learning, Deep Learning, Project Management, Customer Interaction, Storyteller.
+* Technical Skills: Exploratory Data Analysis, Data Wrangling, Statistics, Predictive Modelling, Data Visualization, Business Intelligence, Database Management, Machine Learning, Deep Learning, Project Management, Customer Interaction, Storyteller.
 
 * Soft Skills: Project management skills, Communications, Work ethics, Team-cooperation
