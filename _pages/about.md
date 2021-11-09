@@ -22,8 +22,6 @@ redirect_from:
      margin-bottom: 5em;
      margin-top: 5em;
   }
-</style>
-
 <p class="bottom-three">I am a graduating senior at <a href="https://www.minerva.kgi.edu/">Minerva Schools at KGI</a>
   with a Bachelor of Arts in Data Science and Political Sciences. I am an incoming data science intern at <a href="https://www.dexcom.com/">Dexcom</a>
   for summer 2021. I currently work as a technical support specialist at <a href="https://www.minervaproject.com/">Minerva Project</a>. 
