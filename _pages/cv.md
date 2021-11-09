@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Minerva University, Bachelors in Data Science and Statistics: GPA: 4.0/4.0
+* Minerva University, Bachelors in Data Science and Statistics
 
   * Coursework: Machine Learning, Deep Learning, Modeling and Analysis of Complex Systems, Modern Bayesian Statistics, Causal Inference, Econometrics, Probability & Statistics, Numerical Methods, Calculus, Linear Algebra
+  * GPA: 4.0/4.0
   
 Work experience
 ======
