@@ -8,21 +8,7 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-{% include my_snippet.html %}
-<style>
-  .bottom-three {
-     margin-bottom: 5em;
-     margin-top: 5em;
-  }
-<p class="bottom-three">I am a graduating senior at <a href="https://www.minerva.kgi.edu/">Minerva Schools at KGI</a>
+I am a graduating senior at <a href="https://www.minerva.kgi.edu/">Minerva Schools at KGI</a>
   with a Bachelor of Arts in Data Science and Political Sciences. I am an incoming data science intern at <a href="https://www.dexcom.com/">Dexcom</a>
   for summer 2021. I currently work as a technical support specialist at <a href="https://www.minervaproject.com/">Minerva Project</a>. 
   Previously, I worked as a data scientist intern at <a href="https://www.nokia.com/">Nokia Corporation</a>; 
@@ -30,4 +16,3 @@ redirect_from:
   a teaching assistant at <a href="https://hundred.org/en/innovations/future-class-network">Future Class Network</a>;
   an admission processor at <a href="https://www.minervaproject.com/">Minerva Project</a>. </p>
 <p class="bottom-three"> I am passionate about social entrepreneurship and impactful tech in areas such as climate change, reproductive justice, gender equality, and sustainable development. 
-</p>
