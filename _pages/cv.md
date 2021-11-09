@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Candidate for Bachelors in Data Science and Statistics: GPA: 4.0/4.0, Minerva University, 2022
+* Minerva University, Bachelors in Data Science and Statistics: GPA: 4.0/4.0
 
   * Coursework: Machine Learning, Deep Learning, Modeling and Analysis of Complex Systems, Modern Bayesian Statistics, Causal Inference, Econometrics, Probability & Statistics, Numerical Methods, Calculus, Linear Algebra
   
