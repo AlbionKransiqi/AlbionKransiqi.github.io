@@ -1,18 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-I am a graduating senior at <a href="https://www.minerva.kgi.edu/">Minerva Schools at KGI</a>
-  with a Bachelor of Arts in Data Science and Political Sciences. I am an incoming data science intern at <a href="https://www.dexcom.com/">Dexcom</a>
-  for summer 2021. I currently work as a technical support specialist at <a href="https://www.minervaproject.com/">Minerva Project</a>. 
-  Previously, I worked as a data scientist intern at <a href="https://www.nokia.com/">Nokia Corporation</a>; 
-  a summer scholar at <a href="https://www.novartis.com/">Novartis Institutes for Biomedical Research</a>;
-  a teaching assistant at <a href="https://hundred.org/en/innovations/future-class-network">Future Class Network</a>;
-  an admission processor at <a href="https://www.minervaproject.com/">Minerva Project</a>. </p>
-<p class="bottom-three"> I am passionate about social entrepreneurship and impactful tech in areas such as climate change, reproductive justice, gender equality, and sustainable development. 
+I am a CS senior student at <a href="https://www.minerva.edu//">Minerva University</a>, concentrating in Data Science and Statistics at Minerva University with proficient experience, primarily in Data Analysis/Science and Machine learning. I look forward to working with an innovative analytics team in the future where I can use my analytical and technical skills to accomplish significant milestones and career goals.
+
