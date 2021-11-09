@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Candidate for Bachelors in Data Science and Statistics: GPA: 4.0/4.0, Minerva University, 2022
 
+  * Coursework: Machine Learning, Deep Learning, Modeling and Analysis of Complex Systems, Modern Bayesian Statistics, Causal Inference, Econometrics, Probability & Statistics, Numerical Methods, Calculus, Linear Algebra
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Technical Support Analyst
+  * Minerva Project
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Summer 2020: Data Science Intern
+  * Nokia 
+  * Duties included: building and managing web traffic analytics
+* Summer 2019: Summer Scholar
+  * Novartis Institute for Biomedical Research
+  * Duties included: Building machine learning models to transcribe handwritten medical forms
   * Supervisor: Professor Hub
+  
+* Summer 2018: Translator 
+  * I Believe in Science - أنا أصدق العلم
+  * Duties included: translating the latest research papers into Arabic and writing blog posts to educate the readers. 
+
+* Fall 2018: Teaching Assistant 
+  * 미래교실네트워크/ Future Class Network
+  * Duties included: teaching high school students design thinking and scientific research methods
+  
+* Fall 2017: Admission Processor  
+  * Minerva Project
+  * Duties included: explanatory data analysis for Minerva's admissions team
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding languages: Python, R, Java, Stata, SQL
+ 
+* Data Analysis Tools: Excel, Power BI 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Databases: PostgreSQL, MySQL, Azure SQL
+
+* Application server: Anaconda, Jupyter Notebooks, Google Colab, Visual Studio Code, Amazon SageMaker.
+
+* Technologies: Bash, Docker, Git
+
+* Skills: Exploratory Data Analysis, Data Wrangling, Statistics, Predictive Modelling, Data Visualization, Business Intelligence, Database Management, Machine Learning, Deep Learning, Project Management, Customer Interaction, Storyteller.
+
+* Soft Skills: Project management skills, Communications, Work ethics, Team-cooperation
